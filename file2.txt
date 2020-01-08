@@ -1,1 +1,2 @@
-Something added in file2 
+Something added in file2
+Manali made changes
